@@ -1,0 +1,14 @@
+* INTRODUCTION
+This is a test project to be used as part of hands-on training on
+Git.
+
+This repo contains a collections of small programs to convert numbers
+from one format to another.
+
+* IMPROVEMENTS
+- Write a Makefile to build executables for each program and put them
+  into a separate folder
+- Make the program run in a loop. Pressing 'q' should end the program
+- Make the program accept multiple input numbers separated by comma
+- [bug] dec_to_roman.cpp prints DCCCC for 900 instead of CM
+- [bug] dec_to_hex.cpp does not handle 0 or negative numbers
