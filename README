@@ -13,6 +13,9 @@ from one format to another.
 - [bug] dec_to_roman.cpp prints DCCCC for 900 instead of CM
 - [bug] dec_to_hex.cpp does not handle 0 or negative numbers
 
+* OPEN BUGS
+- fix null pointer exception on blank input
+
 ===============
 This is the last line
 ===============
